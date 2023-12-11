@@ -3,11 +3,11 @@ import 'bootstrap/dist/css/bootstrap.css';
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import './globals.css'
-import Head from "./head";
 import { GlobalProvider } from './GlobalProvider'
 import Script from 'next/script'
 import Header from '@/components/layouts/Header';
 import Footer from '@/components/layouts/Footer';
+import Head from './head';
 
 const inter = Inter({ subsets: ['latin'] })
 
