@@ -3,7 +3,7 @@ const nextConfig = {
     env: {
         // API_URL: "http://localhost:3000",
         API_URL: "https://bookit-ta.vercel.app",
-        DB_LOCAL_URI: "mongodb://localhost:27017/bookit",
+        // DB_LOCAL_URI: "mongodb://localhost:27017/bookit",
         DB_URI: "mongodb+srv://pes0kloveu:Tuananh123@cluster0.u5iph.mongodb.net/bookit?retryWrites=true&w=majority",
 
         STRIPE_WEBHOOK_SECRET: "whsec_RttgNby59AibRTDnyz2sHOdfaJ6AuMjW",
