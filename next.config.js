@@ -2,7 +2,7 @@
 const nextConfig = {
     env: {
         // API_URL: "http://localhost:3000",
-        API_URL: "https://bookit-ta.vercel.app",
+        API_URL: "bookit-ta-lamchucuocfuck.vercel.app",
         // DB_LOCAL_URI: "mongodb://localhost:27017/bookit",
         DB_URI: "mongodb+srv://pes0kloveu:Tuananh123@cluster0.u5iph.mongodb.net/bookit?retryWrites=true&w=majority",
 
@@ -26,7 +26,7 @@ const nextConfig = {
         MAPBOX_ACCESS_TOKEN: "",
 
         // NEXTAUTH_URL: "http://localhost:3000",
-        NEXTAUTH_URL: "https://bookit-ta.vercel.app",
+        NEXTAUTH_URL: "bookit-ta-lamchucuocfuck.vercel.app",
         NEXTAUTH_SECRET: "ANHTRAN8301",
         REVALIDATE_TOKEN: "JK34J50JSDKFLJSDKF034I5DKFJSDK4IJFKSDJFL",
 
